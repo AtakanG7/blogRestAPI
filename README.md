@@ -71,15 +71,6 @@ A RESTful backend for modern blogging platforms. You can use this as a starting 
 | HTTPS | Enforced in production environments |
 | CORS | Configurable Cross-Origin Resource Sharing |
 
-## Performance Metrics
-
-| Metric | Value |
-|--------|-------|
-| Concurrent Users | 1000+ |
-| Avg. Response Time | < 100ms |
-| Uptime SLA | 99.9% |
-
-
 ## Getting Started for Developers
 
 1. Clone the repository
